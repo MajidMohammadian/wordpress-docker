@@ -1,0 +1,4 @@
+.idea
+.vscode
+docker-compose.override.yml
+code/wp-config.php

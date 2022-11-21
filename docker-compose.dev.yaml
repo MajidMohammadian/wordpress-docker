@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  app:
+    environment:
+      - APP_DEBUG=true
+    volumes:
+      - ./code/:/var/www/app:delegated
